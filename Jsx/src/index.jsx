@@ -4,6 +4,7 @@ import App from './App.jsx'
 import Exercicio from './Exercicio.jsx'
 import Arrays from './Arrays.jsx'
 import ExArrays from './ExArrays.jsx'
+import Eventos from './Eventos.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <div>
@@ -11,6 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Exercicio />
     <Arrays />
     <ExArrays />
+    <Eventos />
   </div>
 
 )
